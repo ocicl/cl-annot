@@ -1,0 +1,9 @@
+* cl-annot
+
+Python-like Annotation Syntax for Common Lisp
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/m2ym/cl-annot.git |
+| commit  | c99e69c                                  |
+| systems | cl-annot                                 |
+|---------+------------------------------------------|
